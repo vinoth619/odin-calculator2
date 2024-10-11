@@ -29,3 +29,9 @@ button:hover{
     border: 1px solid black;
     transition: 1s;
 }
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
